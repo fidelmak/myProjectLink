@@ -11,11 +11,11 @@ class Cint extends Component {
                     HNG
                     </h1> 
                     <Nav />
-                    <Button />
-                    <Button />
-                    <Button />
-                    <Button />
-                    <Button />
+                    <Button name="twitter" />
+                    <Button name="netflix" />
+                    <Button name="github"/>
+                    <Button name="facebook"/>
+                    <Button name="linkdein"/>
             </div>
         );
     }
