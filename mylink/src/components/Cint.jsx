@@ -16,6 +16,8 @@ class Cint extends Component {
                     <Button name="github"/>
                     <Button name="facebook"/>
                     <Button name="linkdein"/>
+                    <br />
+                    <br />
             </div>
         );
     }
