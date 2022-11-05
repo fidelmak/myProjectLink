@@ -1,6 +1,6 @@
 import React from 'react'
 import Contact from './Contact'
-//import { NavLink} from 'react-router-dom'
+//import {Link} from 'react-router-dom'
 import Button from './Button';
 
 
@@ -9,7 +9,7 @@ function Linkpath() {
     <div>
         
                     
-        <Button link={Contact} name="Contact me " />
+        <Button name="Contact me "><Link to="/Contact" /></button>
         
                     
                     
