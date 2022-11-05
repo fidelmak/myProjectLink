@@ -1,7 +1,7 @@
-Itimport React from 'react'
+import React from 'react'
 import Contact from './Contact'
 import {UseHistory} from 'react-router-dom'
-import Button from './Button';
+//import Button from './Button';
 
 
 function Linkpath() {
@@ -11,7 +11,7 @@ let history=UseHistory();
         
                     
        
- <Button name="Contact me" Onclick={()=>{history.push("/Contact");}} />
+ <button name="Contact me" Onclick={()=>{history.push("/Contact");}}>clime me </button>
         
                     
                     
