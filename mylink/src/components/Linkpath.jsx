@@ -1,4 +1,4 @@
-import React from 'react'
+Itimport React from 'react'
 import Contact from './Contact'
 //import {Link} from 'react-router-dom'
 import Button from './Button';
@@ -10,7 +10,7 @@ function Linkpath() {
         
                     
        
- <Button name="Contact me" link="/Contact" ></button>
+ <Button name="Contact me" link="/Contact" ></Button>
 
         
                     
