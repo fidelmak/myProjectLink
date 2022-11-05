@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 
 import Nav from './Nav';
+Import Routs from './Routs;
 import Footer from './Footer';
 import Contact from './Contact';
 import BtnLink from './BtnLink';
