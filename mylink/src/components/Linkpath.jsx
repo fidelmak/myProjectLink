@@ -9,7 +9,7 @@ function Linkpath() {
     <div>
         
                     
-        <Button name="Contact me "><Link to="/Contact" /></button>
+        <Button name="Contact me "><Link to="/Contact">now <Link/></button>
         
                     
                     
