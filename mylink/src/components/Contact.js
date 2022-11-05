@@ -43,8 +43,8 @@ function Contact(){
               <label for="message" className="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-400">Your message</label>
               <textarea id="message" rows="6" className="block p-2.5 w-full text-sm text-gray-900 bg-gray-50 rounded-lg shadow-sm border border-gray-300 focus:ring-primary-500 focus:border-primary-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500" placeholder="Send me a message and i'll reply as soon as possible..."></textarea>
           </div>
-          <span class="flex items-center">
-    <input checked id="checked-checkbox" type="checkbox" value="" class="w-4 h-4 text-blue-600 bg-gray-100 rounded-full border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600" />
+          <span className="flex items-center">
+    <input checked id="checkbox" type="checkbox" value="" className="w-4 h-4 bg-white checkbox border-gray  rounded-full p-2 hover:shadow-sm transform hover:scale-110 transition ease-out duration-300 text-white "  />
     
     <label for="unchecked-checkbox" class="ml-2 text-sm font-medium text-gray-500 dark:text-gray-100">You agree to providing your data to Dpaul who may contact you.</label>
         </span>
