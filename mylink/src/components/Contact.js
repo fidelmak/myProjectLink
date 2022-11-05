@@ -15,7 +15,10 @@ function Contact(){
        console.log(User)
         
     }
-    return <div className='formz'>
+    return <div className="flex justify-center">
+            
+    
+    
         <h2>Form submission</h2>
         <form className='iformz' onClick={handleClick}>
         <label className='ilabel'>Name</label>
@@ -37,6 +40,7 @@ function Contact(){
         </form>
         
         <button onClick={handleClick} className="btn">submit</button>
+        
         
     </div>
 }

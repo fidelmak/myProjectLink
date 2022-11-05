@@ -1,5 +1,6 @@
 import React from 'react'
 import Button from './Button'
+import Contact from './Contact'
 
 function BtnLink() {
   return (
@@ -10,6 +11,7 @@ function BtnLink() {
                     <Button name="Basic Coding 1.0 "link="https://books.zuri.team/python-for-beginners?ref_id=<Dpaul>" id='book__python'/>
                     <Button name="Tech-Talent Hunt"link="https://background.zuri.team/" id='pitch'/>
                     <Button name="HNG Design Guidelines "link="https://books.zuri.team/design-rules" id='book__design'/>
+                    
                     
     </div>
   )
