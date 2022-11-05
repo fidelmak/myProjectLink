@@ -15,7 +15,7 @@ function Footer(props) {
 
 
 				<div className=" p-3">
-					<ul className="text-gray-400 flex flex-row justify-evenly">
+					<ul className="text-black flex flex-row justify-evenly">
 						<li><p>Zuri  Internship</p></li>
                         <li>HNG Internship 9 Frontend Task</li>
 						<li><img src={img}/></li>
