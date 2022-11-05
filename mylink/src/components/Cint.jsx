@@ -17,6 +17,7 @@ class Cint extends Component {
                     </h1> 
                     <Nav />
                     <BtnLink />
+                     <Routjs /
                     <Linkpath />
                     
                     
