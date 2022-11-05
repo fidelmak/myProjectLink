@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 import Nav from './Nav';
 import Footer from './Footer';
-import Contact from './Contact';
+//import Contact from './Contact';
 import BtnLink from './BtnLink';
 import Linkpath from './Linkpath';
 
