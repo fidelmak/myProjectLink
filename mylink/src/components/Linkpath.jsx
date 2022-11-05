@@ -10,7 +10,7 @@ function Linkpath() {
         
                     
        <Link to="/Contact">
- <Button name="Contact me "></button>
+ <Button name="Contact me" link="/Contact" ></button>
 </Link>
         
                     
