@@ -11,6 +11,7 @@ function Linkpath() {
         <Router>
                      
        <Link to="/Contact"><Button name="Contact eme "/></Link>
+       <Link to="/Contact"><Button name="Contact eme "/></Link>
 
         
         </Router>          
