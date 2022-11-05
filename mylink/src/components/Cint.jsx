@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+Upimport React, { Component } from 'react';
 
 import Nav from './Nav';
 Import Routs from './Routs;
@@ -17,7 +17,7 @@ class Cint extends Component {
                     </h1> 
                     <Nav />
                     <BtnLink />
-                     <Routjs /
+                     <Routs /
                     <Linkpath />
                     
                     
