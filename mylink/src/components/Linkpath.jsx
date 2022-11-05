@@ -11,7 +11,7 @@ function Linkpath() {
                     
        <Link to="/Contact">
  <Button name="Contact me "></button>
-</Link
+</Link>
         
                     
                     
