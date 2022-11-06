@@ -13,7 +13,7 @@ function Contact(){
             lastname:'lastname',
             email:'email'
         }
-       console.log(User)
+       //console.log(User)
         
     }
     return <div className="flex justify-center bg-white">
