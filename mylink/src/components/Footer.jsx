@@ -18,7 +18,7 @@ function Footer(props) {
 					<ul className="text-black flex flex-row justify-evenly">
 						<li><p>Paul Fidelis Projects</p></li>
                         <li>Built with love </li>
-						<li><img src={img}  alt=""/> </li>
+						<li> </li>
 						
 					</ul>
                 </div>
