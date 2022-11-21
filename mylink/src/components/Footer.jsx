@@ -1,5 +1,5 @@
 import React from 'react';
-import img from './svgs/G.svg'
+import img from './svgs/sv.svg'
 
 
 function Footer(props) {
@@ -18,7 +18,7 @@ function Footer(props) {
 					<ul className="text-black flex flex-row justify-evenly">
 						<li><p>Paul Fidelis Projects</p></li>
                         <li>Built with love </li>
-						<li><img src="https://img.icons8.com/external-flaticons-flat-flat-icons/512/external-url-internet-marketing-service-flaticons-flat-flat-icons.png"/></li>
+						<li><img src={img}  alt=""/> </li>
 						
 					</ul>
                 </div>
