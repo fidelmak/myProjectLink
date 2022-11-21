@@ -16,7 +16,7 @@ class Cint extends Component {
             <div>
                 
                <h1 className="text-3xl font-bold underline text-gray-100">
-                    HNG
+                    Paul Fidelis
                     </h1> 
                     <Nav />
                     <BtnLink />

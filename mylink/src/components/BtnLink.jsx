@@ -6,9 +6,9 @@ function BtnLink() {
   return (
     <div>
         <Button name="About me" link="https://twitter.com/DelisIgib"/>
-                    <Button name="Meet Zuri Family " link="https://training.zuri.team/" id='btn__zuri'/>
-                    <Button name="Browse Zuri's Library"link="http://books.zuri.team/" id='books'/>
-                    <Button name="Basic Coding 1.0 "link="https://books.zuri.team/python-for-beginners?ref_id=<Dpaul>" id='book__python'/>
+                    <Button name="online programming platform " link="https://mainkey-tutorial.vercel.app/" id='btn__mainkeytut'/>
+                    <Button name="NFT House Listing "link="https://metabnbz.vercel.app/" id='metabnbz'/>
+                    <Button name="E-commerce website (Amazon-clone)" link="https://myamazon-clone.vercel.app/" id='book__python'/>
                     <Button name="Tech-Talent Hunt"link="https://background.zuri.team/" id='pitch'/>
                     <Button name="HNG Design Guidelines "link="https://books.zuri.team/design-rules" id='book__design'/>
                     
