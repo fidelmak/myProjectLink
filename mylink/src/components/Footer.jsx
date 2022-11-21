@@ -17,8 +17,8 @@ function Footer(props) {
 				<div className=" p-3">
 					<ul className="text-black flex flex-row justify-evenly">
 						<li><p>Paul Fidelis Projects</p></li>
-                        <li>built with love </li>
-						<li><img src={img}/></li>
+                        <li>Built with love </li>
+						<li><img src="https://img.icons8.com/external-flaticons-flat-flat-icons/512/external-url-internet-marketing-service-flaticons-flat-flat-icons.png"/></li>
 						
 					</ul>
                 </div>
