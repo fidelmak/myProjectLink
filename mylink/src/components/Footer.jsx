@@ -1,5 +1,5 @@
 import React from 'react';
-import img from './svgs/sv.svg'
+//import img from './svgs/sv.svg'
 
 
 function Footer(props) {

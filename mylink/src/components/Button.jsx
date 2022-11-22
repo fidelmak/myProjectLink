@@ -1,6 +1,6 @@
 import React from 'react';
 //import img from './imgs/code.png';
-import { Link } from "react-router-dom";
+//import { Link } from "react-router-dom";
 
 function Button({name, link, id}) {
     return (

@@ -1,6 +1,6 @@
 import React from 'react'
 import Button from './Button'
-import Contact from './Contact'
+//import Contact from './Contact'
 
 function BtnLink() {
   return (

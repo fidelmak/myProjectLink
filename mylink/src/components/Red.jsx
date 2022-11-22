@@ -1,7 +1,7 @@
 import React from 'react'
 //import { Link } from 'react-router-dom'
 import { Outlet, Link} from "react-router-dom";
-import Contact from './Contact';
+//import Contact from './Contact';
 
 function Red() {
     
