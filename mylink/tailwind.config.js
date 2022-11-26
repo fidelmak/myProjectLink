@@ -9,7 +9,7 @@ module.exports = {
           200:'#888883',
           100:'#E2E2D5'
         },
-        main:"#ffc40c"
+        main:"rgb(255,216,0)"
       },
       fontFamily:{
         body:['Nunito']
