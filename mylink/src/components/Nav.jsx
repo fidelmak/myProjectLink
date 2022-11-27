@@ -17,11 +17,11 @@ function Nav(props) {
 
 <nav className="main">
 
-<p className="text-center text-black font-bold mr-12 " id='twitter'><i><a href="https://twitter.com/DelisIgib">@DelisIgib</a></i> </p> 
+<p className="text-center text-gray-500 font-bold mr-12 " id='twitter'><i><a href="https://twitter.com/DelisIgib">@DelisIgib</a></i> </p> 
 {/* <span id='slack' className='invisible'>Dpaul</span> */}
 
 <div className="mt-6">
-    <span className="text-black  flex justify-center">
+    <span className="text-gray-500  flex justify-center">
         
        <p className=" border-2 p-2 border-gray-400 w-1/2 text-center ">Hey Ma chère! Je suis un développeur Web frontend qui aime concrétiser les conceptions </p> </span>
     </div>

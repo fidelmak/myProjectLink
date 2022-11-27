@@ -15,7 +15,7 @@ class Cint extends Component {
         return (
             <div>
                 
-               <h1 className="text-3xl font-bold underline text-gray-100">
+               <h1 className="text-3xl font-bold underline text-gray-500">
                     Paul Fidelis
                     </h1> 
                     <Nav />
