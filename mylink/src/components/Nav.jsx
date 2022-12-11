@@ -18,7 +18,7 @@ function Nav(props) {
 <nav className="main">
 
 <p className="text-center text-white font-bold mr-12 " id='twitter'><i><a href="https://twitter.com/DelisIgib">@DelisIgib</a></i> </p> 
-{/* <span id='slack' className='invisible'>Dpaul</span> */}
+
 
 <div className="mt-6">
     <span className="text-white  flex justify-center">
