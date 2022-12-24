@@ -23,7 +23,7 @@ function Nav(props) {
 <div className="mt-6">
     <span className="text-white  flex justify-center">
         
-       <p className=" border-2 p-2 border-gray-400 w-1/2 text-center ">Hey Ma chère! Je suis un développeur Web frontend qui aime concrétiser les conceptions </p> </span>
+       <p className=" border-2 p-2 sm:hidden border-gray-400 w-1/2 text-center ">Hey Ma chère! Je suis un développeur Web frontend qui aime concrétiser les conceptions </p> </span>
     </div>
 
 </nav>
