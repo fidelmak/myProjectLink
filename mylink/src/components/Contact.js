@@ -8,12 +8,8 @@ function Contact(){
     const[lastname, setLastname] =useState('')
     const[email, setemail] =useState()
     const handleClick=()=>{
-        var User={
-            firstname:'firstname',
-            lastname:'lastname',
-            email:'email'
-        }
-       //console.log(User)
+        const addr = "https://twitter.com/DelisIgib"
+       return addr
         
     }
     return <div className="flex justify-center bg-white">
