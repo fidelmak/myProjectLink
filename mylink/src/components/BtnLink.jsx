@@ -10,6 +10,7 @@ function BtnLink() {
                     <Button name="NFT House Listing "link="https://metabnbz.vercel.app/" id='metabnbz'/>
                     <Button name="E-commerce website (Amazon-clone)" link="https://myamazon-clone.vercel.app/"/>
                     <Button name="Search your Favourite video" link="https://vidmax.vercel.app/"/>
+                    <Button name="Get Palo whitelist (dApp) " link="https://get-palo-whitelist.vercel.app/"/>
                     <Button name="Tech-Talent Hunt"link="https://background.zuri.team/" id='pitch'/>
                     <Button name="Design Guidelines "link="https://books.zuri.team/design-rules" id='book__design'/>
                     
