@@ -9,14 +9,13 @@ import Red from './Red';
 
 
 
-
 class Cint extends Component {
     render() {
         return (
             <div>
                 
                <h1 className="text-3xl font-bold underline text-gray-500">
-                    Paul Fidelis
+                    ...
                     </h1> 
                     <Nav />
                     <BtnLink />
