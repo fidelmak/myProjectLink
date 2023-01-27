@@ -11,7 +11,7 @@ function BtnLink() {
                     <Button name="E-commerce website (Amazon-clone)" link="https://myamazon-clone.vercel.app/"/>
                     <Button name="Search your Favourite video" link="https://vidmax.vercel.app/"/>
                     <Button name="Get Palo whitelist (dApp) " link="https://get-palo-whitelist.vercel.app/"/>
-                    <Button name="Tech-Talk". " https://social-eosin-tau.vercel.app/#span" id='pitch'/>
+                    <Button name="Tech-Talk"link="https://social-eosin-tau.vercel.app/#span" id='pitch'/>
                     <Button name="Design Guidelines "link="https://books.zuri.team/design-rules" id='book__design'/>
                     
                     
