@@ -5,8 +5,11 @@ import Button from './Button'
 function BtnLink() {
   return (
     <div>
-        <Button name="About me" link="https://www.linkedin.com/in/oluborode-akintunde-paul-8b3b2116a"/>
-                    <Button name="Online programming platform " link="https://mainkey-tutorial.vercel.app/" id='btn__mainkeytut'/>
+        <Button name="About me" link=" https://oluborodeakintunde.netlify.app/"/>
+         <Button name="LinkedIn me" link="https://www.linkedin.com/in/oluborode-akintunde-paul-8b3b2116a"/>
+                           
+
+  <Button name="Online programming platform " link="https://mainkey-tutorial.vercel.app/" id='btn__mainkeytut'/>
                     <Button name="NFT House Listing "link="https://metabnbz.vercel.app/" id='metabnbz'/>
                     <Button name="E-commerce website (Amazon-clone)" link="https://myamazon-clone.vercel.app/"/>
                     <Button name="Search your Favourite video" link="https://vidmax.vercel.app/"/>
