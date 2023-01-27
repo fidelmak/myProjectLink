@@ -10,7 +10,7 @@ function BtnLink() {
                            
 
   <Button name="Online programming platform " link="https://mainkey-tutorial.vercel.app/" id='btn__mainkeytut'/>
-                    <Button name="NFT House Listing "link="https://metabnbz.vercel.app/" id='metabnbz'/>
+                    <Button name="Social Links "link="https://sociallincs.netlify.app/"/>
                     <Button name="E-commerce website (Amazon-clone)" link="https://myamazon-clone.vercel.app/"/>
                     <Button name="Search your Favourite video" link="https://vidmax.vercel.app/"/>
                     <Button name="Get Palo whitelist (dApp) " link="https://get-palo-whitelist.vercel.app/"/>
