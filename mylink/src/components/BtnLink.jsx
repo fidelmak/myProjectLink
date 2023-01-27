@@ -12,7 +12,7 @@ function BtnLink() {
                     <Button name="Search your Favourite video" link="https://vidmax.vercel.app/"/>
                     <Button name="Get Palo whitelist (dApp) " link="https://get-palo-whitelist.vercel.app/"/>
                     <Button name="Tech-Talk"link="https://social-eosin-tau.vercel.app/#span" id='pitch'/>
-                    <Button name="Design Guidelines "link="https://books.zuri.team/design-rules" id='book__design'/>
+                    <Button name="React Guidelines "link=" https://silly-davinci-6a83f1.netlify.app/#lifting_state_up" id='book__design'/>
                     
                     
     </div>
