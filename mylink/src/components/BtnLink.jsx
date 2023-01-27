@@ -14,6 +14,7 @@ function BtnLink() {
                     <Button name="Tech-Talk"link="https://social-eosin-tau.vercel.app/#span" id='pitch'/>
                     <Button name="React Guidelines "link=" https://silly-davinci-6a83f1.netlify.app/#lifting_state_up" id='book__design'/>
                     
+                    <Button name="Just Me"link=" https://makekudi.netlify.app/" />
                     
     </div>
   )
