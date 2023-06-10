@@ -1,7 +1,10 @@
 # myProjectLink
 this repository highlights  my frontend projects in form of a button
 # project link
-my-project-link.vercel.app
+my-pr
+
+https://my-project-link.vercel.app/
+
 # framework
 Reactjs and TailwindCss
 # Reactjs concepts
